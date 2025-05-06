@@ -15,7 +15,7 @@ class Produto {
 
 
 <?php
-// defina a classe Produto aqui
+
 
 $produto1 = new Produto();
 $produto1->nome = "Caneta";
